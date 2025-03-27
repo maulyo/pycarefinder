@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>PyCareFinder</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="../data/logo.ico">
+</head>
+<body>
+<img class='bounce' id="info" src="../data/info.png" width="2.5%"/>
+<h1><b><u>Carte des établissements de soins les plus proches</u></b></h1>
+<br>
+<p>Vous trouverez ci-dessous les informations concernant les établissements de soins choisis :</p>
+<br>
+<p class='info'>Passez la souris sur les différents trajets pour prendre connaissances des distances à vol d'oiseau entre votre position et l'établissement de soins.</p>
+<p class='info'>Vous pouvez également obtenir d'autres informations en cliquant sur les marqueurs.</p>
+<div>
+<iframe id='carte' src="../data/map.html" title="carte"></iframe></div>
+<iframe id='fichier_txt' src="../data/info.txt" title="carte"></iframe></div>
+</div>
+<script>let logo = document.getElementById('info');
+logo.addEventListener('mouseover', function() {
+alert("Le programme analyse des bases de données téléchargées sur data.gouv.fr qui peuvent être incomplètes.");
+})
+</script>
+</body>
+</html>
