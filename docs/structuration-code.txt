@@ -1,0 +1,14 @@
+##########################
+##     PyCareFinder     ##
+##       R.Rudolf       ##
+##   S.Vieira Do Vale   ##
+##    Lycée J.Favard    ##
+##########################
+
+Structuration du code main.py:
+
+Toutes les informations nécessaires sont présentes dans le fichier main.py sous forme de commentaires
+
+Lors de l'exécution du programme main.py une fenêtre tkinter s'ouvre. Les images nécessaires se trouvent dans le répertoire data.
+Lorsque l'utilisateur clique sur Lancer le programme de recherche, la fenêtre se ferme en ouvrant index.html, présent dans le même répertoire.
+La page index.html utilise des fichiers présents dans data comme la map.html ou info.txt.
