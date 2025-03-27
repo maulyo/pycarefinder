@@ -35,10 +35,8 @@ Projet développé en Python 3.7.6 : différentes bibliothèques utilisées :
 Après de nombreux tests, le fichier requirements.txt contient : folium pillow
 les autres bibliothèques sont normalement déjà présentes.
 
-Une instruction pour l’installation et l’utilisation.
+Pour l'utilisation : respectez l'architecture présente (data, docs, sources) telle qu'elle est présente entre vos mains. Respectez les bons noms de fichiers et placez t-finess2.csv (version du 17 janvier 2025) dans le dossier data.
 
-Une liste des technologies utilisées et, le cas échéant, des liens vers d’autres informations sur ces technologies.
-
-Bugs connus et corrections éventuelles apportées.
+Aucun bug actuellement connu.
 
 Licence libre : GPL v3+
