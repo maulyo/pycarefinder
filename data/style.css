@@ -1,0 +1,70 @@
+body {
+	background: linear-gradient(to bottom, rgba(27, 152, 255, 0.53), rgba(27, 165, 156, 0.8));
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	color: black;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Javanese Text", sans-serif;
+	font-size: 30px;
+	text-shadow: rgb(144,165,182) 5px 8px;
+	padding: 10px;
+	margin: 10px;
+}
+
+p {
+	font-family: "Roboto Slab", sans-serif;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#carte {
+	float: left;
+	width: 50%;
+	height: 500px;
+	object-fit: cover;
+}
+
+#fichier_txt {
+	float: right;
+	width: 49%;
+	height: 500px;
+	object-fit: cover;
+}
+
+.info {
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+div {
+	position : absolute;
+	width : 100%;
+	height : 100%;
+
+}
+
+.bounce {
+    animation-name: bounce;
+    animation-duration: 2s;
+	animation-iteration-count: infinite;
+	left: 10px;
+	top: 7px;
+	position: fixed;
+	z-index: 1;
+}
+
+@keyframes bounce {
+	0% {transform: scale(1)}
+	20% {transform: scale(1.2)}
+	40% {transform: scale(0.8)}
+	60% {transform: scale(1)}
+	100% {transform: scale(1)}
+}

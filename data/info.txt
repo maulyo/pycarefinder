@@ -1,0 +1,26 @@
+Hélistation hospitalière :
+Ville : Guéret
+Pays : France
+Distance à vol d'oiseau : 1.309 km
+
+Pharmacie :
+Nom : PHARMACIE PASCAL
+Ville : GUERET
+Pays : France
+Distance à vol d'oiseau : 1.037 km
+N° de tel : 0555520084
+
+CHU / CH :
+Nom : CHU LIMOGES - SITE CH GUERET
+Ville : GUERET CEDEX
+Pays : France
+Distance à vol d'oiseau : 1.271 km
+N° de tel : 
+
+EHPAD :
+Nom : EHPAD ANNA QUINQUAUD
+Ville : GUERET
+Pays : France
+Distance à vol d'oiseau : 1.563 km
+N° de tel : 0555617000
+
