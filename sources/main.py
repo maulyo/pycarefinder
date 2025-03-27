@@ -360,11 +360,11 @@ for i in range(1, len(data)):
 
 # Établissements de soins (pharmacie, chu/ch, ehpad)
 
-t_finess2 = os.sep.join(["..", "data", "t-finess2.csv"])
+t_finess = os.sep.join(["..", "data", "t-finess.csv"])
 
 data_etab = []
 
-with open(t_finess2, 'r', encoding='UTF-8') as g:
+with open(t_finess, 'r', encoding='UTF-8') as g:
     lines = g.readlines()
     for line in lines:
         valeur = line.rstrip("\n").split(",")
