@@ -8,7 +8,7 @@
 ###################################
 ###################################
 
-ATTENTION : dans le dossier data, un fichier t-finess2.csv est censé être présent, pour des raisons de tailles volumineuses, le fichier peut être téléchargé ici : https://www.data.gouv.fr/fr/datasets/referentiel-finess-t-finess/
+ATTENTION : dans le dossier data, un fichier t-finess.csv est censé être présent, pour des raisons de tailles volumineuses, le fichier peut être téléchargé ici : https://www.data.gouv.fr/fr/datasets/referentiel-finess-t-finess/
 Pour des raisons de bon fonctionnement vous êtes priés d'utiliser la version mise à jour le 17 janvier 2025. Si vous souhaitez avoir cette version (si elle n'est plus disponible à l'avenir) demandez ! 
 
 PyCareFinder <br>
