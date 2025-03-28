@@ -30,7 +30,7 @@ Projet développé en Python 3.7.6 : différentes bibliothèques utilisées :<br
     • webbrowser<br>
     • PIL<br>
 Après de nombreux tests, le fichier requirements.txt contient : folium pillow<br>
-les autres bibliothèques sont normalement déjà présentes.<br>
+les autres bibliothèques sont normalement déjà présentes dans la version python.<br>
 <br>
 Pour l'utilisation : respectez l'architecture présente (data, docs, sources) telle qu'elle est présente entre vos mains. Respectez les bons noms de fichiers et placez t-finess2.csv (version du 17 janvier 2025) dans le dossier data.<br>
 <br>
